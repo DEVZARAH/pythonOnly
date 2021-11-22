@@ -1,5 +1,5 @@
 list_of_usernames = ['Dolly', 'Fest', 'David']
-list_of_passwords = ['Dollop_123', 'Fests_456', 'David_789']
+list_of_passwords = ['Dollop_124', 'Fests_456', 'David_789']
 
 
 def welcome_message():
